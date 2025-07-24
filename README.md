@@ -30,5 +30,5 @@ Vehicle__c – Stores vehicle info (make, model, plate number, etc.)
 Service__c – Tracks service history and details
 
 Appointment__c – For scheduling maintenance
-✅ Conclusion
+## ✅ Conclusion
 The Garage Management System built on the Salesforce platform provides a powerful, scalable, and user-friendly solution for managing day-to-day operations in an automotive service center. By leveraging Salesforce's standard and custom functionalities—such as Apex, Lightning Web Components, Flows, and Reports—this solution enables seamless customer engagement, efficient vehicle tracking, and streamlined service management
